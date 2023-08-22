@@ -1,0 +1,88 @@
+.one{
+font-size: 6rem;
+font-weight: 700;
+font-family:Georgia, 'Times New Roman', Times, serif;
+color: white;
+
+
+}
+.two{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-color: #974EC3;
+    border-width: 5px;
+    border-style:ridge;
+    gap: 50px;
+    padding-left:20px ;
+    background-color: #974EC3;
+    
+  
+    
+}
+#why{
+    border-radius: 20%;
+}
+.nin{
+    margin-top: 80px;
+    display: inline-block;
+    flex-direction: column;
+}
+.sev{
+    background-color:wheat;
+    height: 50px;
+    
+}
+.eig{
+    background-color: orange;
+    color: white;
+    height: 50px;
+    width: 2100px;
+    font-size: 20px;
+}
+.head{
+    background-color:orange;
+}
+.three{
+    display: flex;
+    gap: 10px;
+    margin-top: 70px;
+    margin-bottom: 70px;
+    font-size: 2rem;
+    align-items: center;
+    justify-content: center;
+    color: orange;
+  
+
+}
+.tt{
+
+margin-top: 100px;
+margin-bottom: 50px;
+display: flex;
+justify-content: center;
+background-color: #974EC3;
+color: white;
+font-size: 3rem;
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.how{
+    font-size: 2rem;
+    color: blueviolet;
+    margin-bottom: 50px;
+    display: flex;
+    justify-content: center;
+}
+.container1{
+    display: grid;
+    grid-template-columns:1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    justify-content: center;
+    margin-left: 50px;
+
+   
+    gap: 15px;
+}
+.then{
+    font-size: 2rem;
+}

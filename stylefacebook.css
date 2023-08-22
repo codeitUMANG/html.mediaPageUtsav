@@ -1,0 +1,17 @@
+.one{
+    font-size: 5rem;
+    font-weight: 700;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    
+    }
+    .two{
+        display: inline-flex;
+        align-items: center;
+        margin-left: 100px;
+        border-color:blue;
+        border-width: 5px;
+        border-style:ridge;
+        gap: 50px;
+        padding-left:20px ;
+        
+    }
